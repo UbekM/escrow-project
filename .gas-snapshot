@@ -1,0 +1,4 @@
+DecentralizedEscrowTest:testCreateAndFundEscrow() (gas: 224555)
+DecentralizedEscrowTest:testReleaseFunds() (gas: 250210)
+DecentralizedEscrowTest:testRequestRefundAfterDeadline() (gas: 229118)
+DecentralizedEscrowTest:testResolveDisputeByArbiter() (gas: 250843)
